@@ -1,10 +1,13 @@
 # Book in Angular 6
 ## Web App by Enrico Viola: frontend javascript developer
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
+Per avviare la web app, attivare prima:
+1) il server virtuale per le risorse in remoto (json) col comando da eseguire in Angular CLI dalla root del progetto "npm run server"
+2) il server test il localhost col comando da eseguire in Angular CLI dalla root del progetto: "ng serve --open"
 
 ## Development server
 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
